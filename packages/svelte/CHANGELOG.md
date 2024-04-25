@@ -1,5 +1,13 @@
 # svelte
 
+## 5.0.0-next.116
+
+### Patch Changes
+
+- fix: correctly interpret empty aria- attribute ([#11325](https://github.com/sveltejs/svelte/pull/11325))
+
+- feat: only inject push/init/pop when necessary ([#11319](https://github.com/sveltejs/svelte/pull/11319))
+
 ## 5.0.0-next.115
 
 ### Patch Changes
